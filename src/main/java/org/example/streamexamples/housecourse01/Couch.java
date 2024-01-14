@@ -8,6 +8,7 @@ public class Couch {
     private int weight;
     private int nrOfPeople;
     private boolean isConfy;
+    private boolean isExpensive;
     public Couch(String brand, String color, double size){
         this.brand = brand;
         this.color = color;
