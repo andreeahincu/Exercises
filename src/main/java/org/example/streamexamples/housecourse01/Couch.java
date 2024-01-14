@@ -77,6 +77,6 @@ public class Couch {
                 "\nColor: " + color +
                 "\nSize:  " + size +
                 "\nNumber of people: " + nrOfPeople +
-                "\nIs confortable: " + isConfy;
+                "\nIs comfortable: " + isConfy;
     }
 }
