@@ -10,5 +10,6 @@ public class Main {
         couch1.cleanCouch();
         couch1.foldOutBed();
         couch1.toString();
+
     }
 }
